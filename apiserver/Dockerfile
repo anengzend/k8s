@@ -1,2 +1,2 @@
-FROM aiotceo/kube-apiserver:v1.18.3
+FROM hello-world
 MAINTAINER aneng
